@@ -5,6 +5,7 @@ import PopularProduct from './section/PopularProduct';
 import SuperQuality from './section/SuperQuality';
 import Service from './section/Service';
 import SpecialOffer from './section/SpecialOffer';
+import CustomerReviews from './section/CustomerReviews';
 
 const App = () => {
   return (
@@ -15,6 +16,7 @@ const App = () => {
       <SuperQuality />
       <Service />
       <SpecialOffer />
+      <CustomerReviews/>
     </main>
   )
 }

@@ -10,7 +10,7 @@ import PopularProductCard from '../component/PopularProductCard';
 
 const PopularProduct = () => {
   return (
-    <section id='products' className='padding max-container max-sm:mt-12'>
+    <section id='products' className='max-container max-sm:mt-12 padding'>
         <h1 className='text-4xl font-palanquin font-bold'>Our<span className='text-coral-red'> Popular</span> Products</h1>
         <p className='text-slate-gray-500 lg:max-w-lg mt-2 font-montserrat'>Experience top-notch quality and style with our sought-after <br /> selection. Discover a world of comfort, design, and value</p>
         <p></p>

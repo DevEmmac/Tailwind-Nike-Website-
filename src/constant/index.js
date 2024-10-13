@@ -3,7 +3,7 @@
 // import { shieldTick, support, truckFast } from "../section/Services";
 
 import { bigShoe1, bigShoe2, 
-    bigShoe3, customer1, customer2, 
+    bigShoe3, 
     shoe4, shoe5, shoe6, shoe7, thumbnailShoe1,
      thumbnailShoe2, thumbnailShoe3 } from "../../public/assets/images";
 

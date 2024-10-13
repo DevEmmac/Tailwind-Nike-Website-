@@ -5,7 +5,7 @@ import arrowRight from '../../public/assets/icons/arrow-right.svg';
 
 const SpecialOffer = () => {
   return (
-    <section className='flex justify-wrap items-center max-xl:flex-col-reverse gap-10 max-container w-full ring-1 padding'>
+    <section className='flex justify-wrap items-center max-xl:flex-col-reverse gap-10 max-container w-full padding'>
       <div>
         <img src={offer} alt="offer" width={773} height={687} className='object-contain w-full'/>
       </div> 
