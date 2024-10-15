@@ -80,20 +80,6 @@ export const products = [
 //     },
 // ];
 
-// export const reviews = [
-//     {
-//         // imgURL: customer1,
-//         customerName: 'Morich Brown',
-//         rating: 4.5,
-//         feedback: "The attention to detail and the quality of the product exceeded my expectations. Highly recommended!"
-//     },
-//     {
-//         imgURL: customer2,
-//         customerName: 'Lota Mongeskar',
-//         rating: 4.5,
-//         feedback: "The product not only met but exceeded my expectations. I'll definitely be a returning customer!"
-//     }
-// ];
 
 
 // export const footerLinks = [
@@ -127,8 +113,3 @@ export const products = [
 //     },
 // ];
 
-// export const socialMedia = [
-//     // { src: facebook, alt: "facebook logo" },
-//     { src: "/assets/icons/twitter.svg", alt: "twitter logo" },
-//     { src: "", alt: "instagram logo" },
-// ];
